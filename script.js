@@ -182,9 +182,9 @@ function showLoadingScreen(stablecoinInput) {
                         },
                         b: {
                             corpBond: '$1,000,000,000',
-                            usBond: '$3,005,000,000'
+                            usBond: '$5,005,000,000'
                         },
-                        totalCollateral: '20,005,000,000'
+                        totalCollateral: '22,005,000,000'
                     }
                 }
             };
