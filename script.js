@@ -173,7 +173,7 @@ function showLoadingScreen(stablecoinInput) {
                             minted: '1,000,000,000',
                             blockchainNumber: '0x5678...1234'
                         },
-                        totalMinted: '10,000,000,000'
+                        totalMinted: '20,000,000,000'
                     },
                     custodian: {
                         a: {
